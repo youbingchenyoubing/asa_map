@@ -1,0 +1,3 @@
+SEQUENCE: 
+SCORE: total_score complex_normalized           dG_cross dG_cross/dSASAx100 dG_separated dG_separated/dSASAx100 dSASA_hphobic dSASA_int dSASA_polar delta_unsatHbonds hbond_E_fraction         nres_all         nres_int         packstat per_residue_energy_int               sc_value side1_normalized side1_score side2_normalized side2_score description 
+SCORE:       0.000              0.988             -5.652             -0.365       97.171                  6.282       854.218  1546.926     692.708            16.000           -0.075         1142.000           66.000            0.000                  4.998                  0.508            0.280      41.402            0.276      60.110 4plJALAA479_0001

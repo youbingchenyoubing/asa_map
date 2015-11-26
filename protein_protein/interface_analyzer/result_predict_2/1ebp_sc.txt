@@ -1,0 +1,7 @@
+1ebp.pdb:-6.851
+1ebpALAC8.pdb:-10.461:-2.0938:Y
+1ebpALAC9.pdb:-6.922:-0.04118:N
+1ebpALAC10.pdb:-7.171:-0.1856:N
+1ebpALAC11.pdb:-7.037:-0.10788:N
+1ebpALAC12.pdb:-6.218:0.36714:N
+1ebpALAC13.pdb:-6.935:-0.04872:N

@@ -1,0 +1,3 @@
+SEQUENCE: 
+SCORE: total_score complex_normalized           dG_cross dG_cross/dSASAx100 dG_separated dG_separated/dSASAx100 dSASA_hphobic dSASA_int dSASA_polar delta_unsatHbonds hbond_E_fraction         nres_all         nres_int         packstat per_residue_energy_int               sc_value side1_normalized side1_score side2_normalized side2_score description 
+SCORE:       0.000             -0.200            -14.720             -0.773      -22.036                 -1.157      1095.142  1905.246     810.104            10.000            0.289          735.000           76.000            0.000                 -0.227                  0.656            0.725     210.371            0.203      46.625 2ny7ALA430_0001

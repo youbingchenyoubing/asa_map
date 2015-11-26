@@ -1,0 +1,3 @@
+SEQUENCE: 
+SCORE: total_score complex_normalized           dG_cross dG_cross/dSASAx100 dG_separated dG_separated/dSASAx100 dSASA_hphobic dSASA_int dSASA_polar delta_unsatHbonds hbond_E_fraction         nres_all         nres_int         packstat per_residue_energy_int               sc_value side1_normalized side1_score side2_normalized side2_score description 
+SCORE:       0.000              1.641              3.022              0.206        0.762                  0.052       914.276  1463.836     549.560             8.000           -5.071         1176.000           55.000            0.000                  2.770                  0.645            3.498     528.158            1.306     287.275 1afvALA81_0001

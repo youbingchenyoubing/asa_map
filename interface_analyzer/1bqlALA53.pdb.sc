@@ -1,0 +1,3 @@
+SEQUENCE: 
+SCORE: total_score complex_normalized           dG_cross dG_cross/dSASAx100 dG_separated dG_separated/dSASAx100 dSASA_hphobic dSASA_int dSASA_polar delta_unsatHbonds hbond_E_fraction         nres_all         nres_int         packstat per_residue_energy_int               sc_value side1_normalized side1_score side2_normalized side2_score description 
+SCORE:       0.000              1.805             -1.062             -0.063      -11.976                 -0.713      1007.436  1680.082     672.646             7.000            0.452          555.000           71.000            0.000                  1.604                  0.672            1.450     187.052            2.617     560.003 1bqlALA53_0001

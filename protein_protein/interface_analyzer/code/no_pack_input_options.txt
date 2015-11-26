@@ -1,0 +1,8 @@
+-compute_packstat true 
+-tracer_data_print false
+-pack_input false 
+-pack_separated false 
+-add_regular_scores_to_scorefile true 
+-atomic_burial_cutoff 0.01 
+-sasa_calculator_probe_radius 1.4 
+-pose_metrics::interface_cutoff 8.0 

@@ -1,0 +1,6 @@
+1a22.pdb:B:A
+1a4y.pdb:B:A
+1brs.pdb:A:D
+1cbw.pdb:D:A+B+C
+1fcc.pdb:C:A
+3hfm.pdb:H:Y

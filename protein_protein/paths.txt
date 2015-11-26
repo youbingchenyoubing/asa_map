@@ -1,0 +1,4 @@
+1cdl.pdb:E:A
+1dva.pdb:X:H
+1ebp.pdb:C:A
+1jat.pdb:B:A

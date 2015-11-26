@@ -1,0 +1,13 @@
+-compute_packstat false 
+-tracer_data_print false 
+-pack_input true 
+-pack_separated true 
+-add_regular_scores_to_scorefile true 
+-atomic_burial_cutoff 0.01 
+-pose_metrics::interface_cutoff 8.0
+-sasa_calculator_probe_radius 1.4
+-use_input_sc 
+-ex1 
+-ex2 
+-extrachi_cutoff 1
+-score:weights standard_plus_score12 

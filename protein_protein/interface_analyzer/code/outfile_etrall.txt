@@ -1,0 +1,4 @@
+1x42.pdb  1   N2C_N   33   37   662    666  $  graft_bb  graft_sc  @  ...xxx | ll* | hhHH  &  WDExxx | pA? | ??.*
+1w40.pdb  1   N2C_N   61   65   662    666  $  graft_bb  graft_sc  @  ...xxx | ll* | hhHH  &  WDExxx | pA? | ??.*
+2vi6.pdb  1   N2C_N   185   188   663    666  $  graft_bb  graft_sc  @  ...xxx | ll* | hhHH  &  WDExxx | pA? | ??.*
+2nrw.pdb  1   N2C_N   122   125   663    666  $  graft_bb  graft_sc  @  ...xxx | ll* | hhHH  &  WDExxx | pA? | ??.*

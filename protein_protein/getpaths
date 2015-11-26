@@ -1,0 +1,7 @@
+#!/bin/bash
+cd /home/rosetta/asa/protein_protein/interface_analyzer/pdbdata
+for file_a in `ls *.pdb`;
+do
+  echo $file_a >> paths.txt;
+done
+mv ./paths.txt ../../
