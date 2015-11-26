@@ -30,7 +30,7 @@ def expandfeature(filename):
         line=line.strip('\n')
         line=line.split(':')
         newvalue=float(line[1])/0.58
-        f_result.write(line[0]+':'+str(newvalue)+':'+str((0.05*newvalue+1.09)**2)+':'+str((newvalue+1.06)**5)+':'+str((1.0/newvalue)**-5)+':'+str(math.log10(math.fabs(newvalue)))+':'+str(math.sqrt(math.fabs(newvalue))))
+        f_result.write(line[0]+':'+str(newvalue)+':'+str((0.05*newvalue+1.09)**2)+':'+str((newvalue+1.06)**5)+':'+str((1.0/newvalue)**-5)+':'+str(math.log10(math.fabs(newvalue)))+':'+str(math.sqrt(math.fabs(newvalue)))+':'+str(float(line[2])))
         f_result.write('\n')
     f_original.close()
     f_result.close()
