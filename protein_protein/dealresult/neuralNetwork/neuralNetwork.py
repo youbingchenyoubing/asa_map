@@ -169,6 +169,7 @@ def psolearn(trainfile,N_value,M_value):
     #for i in xrange(100):
     iterations=1000
     value=n.train(pat,iterations,N_value,M_value)
+    print ('N_value:%f,M_value:%f'%(N_value,M_value))
     #n.weights()
     return value
 def demo():
